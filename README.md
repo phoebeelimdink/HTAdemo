@@ -19,9 +19,6 @@ Contains the Application Guidelines
 *media* 
 Contains the media-related files, e.g. Forms and Templates and Guides
 
-*EDIT-THIS* 
-Contains the rest of the markdown files, e.g. Privacy Statement, Terms of Use, Who We Are, Contact Us
-
 *_data* 
 Contains the YAML files to make fine tweaks to the website.
 
