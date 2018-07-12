@@ -1,0 +1,34 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Agency logo
+agency-logo: /images/homepage/logo_hlb.svg
+
+# Hero Banner
+hero-title: Hotels licensing in Singapore
+hero-subtitle: An easy platform to search for types of hotels and accommodations possessing a valid hotel licence and their locations
+hero-banner: /images/homepage/banner_Merlion.png
+
+# I want to dropdown
+i-want-to:
+  - title: apply for licence
+    url: /application-guidelines/applying-for-licence/
+  - title: cancel hotel licence
+    url: /application-guidelines/cancellation-of-licence/
+  - title: change hotel keeper
+    url: /application-guidelines/change-of-hotel-keeper/
+  - title: change hotel name
+    url: /application-guidelines/change-of-hotel-name/
+  - title: apply for exemption for hotel licence
+    url: /application-guidelines/exemption/
+  - title: renew hotel licence
+    url: /application-guidelines/renew-hotel-licence/
+
+# Resources Section
+resources-title: Resources
+resources-subtitle: Be in the know
+resources-more-button: More Resources
+resources-more-button-url: resources/
