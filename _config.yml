@@ -19,15 +19,14 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Hotels Licensing Board website is an easy platform to search for types of hotels and 
   accommodations possessing a valid hotel licence and their locations
-baseurl: "/blueprint-hlb-staging" # the subpath of your site, e.g. /blog
-url: "https://datagovsg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/isomerpages-hlb" # the subpath of your site, e.g. /blog
+url: "https://isomerpages.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
-last_updated: 6 June 2018
 # Build settings
 markdown: kramdown
-remote_theme: opengovsg/blueprint-jekyll-theme
+remote_theme: isomerpages/isomerpages-template
 safe: false
 
 plugins:
