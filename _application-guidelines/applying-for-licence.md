@@ -22,10 +22,6 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
 
 <table class="table-v">
   <tr>
-    <td>Who Can Apply</td>
-    <td>The proposed Hotel-Keeper: <br><br> (1) Must be a person who holds a post of a Chief Executive or General Manager or equivalent to that of a Chief Executive Officer or General Manager of the hotel; and <br> (2) must be a Singaporean, Permanent Resident or an Employment Pass holder.</td> 
-  </tr>
-  <tr>
     <td>Application Period</td>
     <td>1 January to 30 November each year only</td>
   </tr>
