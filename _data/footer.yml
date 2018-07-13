@@ -33,11 +33,11 @@
   - title: Forms and Templates
     url: /resources/forms-and-templates/
   - title: Guides
-    url: /resources/guides/
-    
-- title: Who We Are
-  url: /who-we-are/
-  sub-links:
+    url: /resources/guides/ 
   - title: Registered Hotels
     url: https://licence1.business.gov.sg/web/frontier/hotel-listing-search
     external: true
+    
+- title: Who We Are
+  url: /who-we-are/
+
