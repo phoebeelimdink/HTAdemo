@@ -2,5 +2,5 @@
 layout: post
 title:  "Guide for Amendment of Licence"
 date:   2018-04-01
-file_url: "/resources/guides/files/guide-amendment-of-licence.pdf"
+file_url: "/files/resources/guides/guide-amendment-of-licence.pdf"
 ---
