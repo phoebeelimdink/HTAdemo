@@ -1,8 +1,8 @@
-#########################
-#        >:(            #
-# DON'T EDIT THIS FILE! #
-#        >:(            #
-#########################
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
 
 - title: Application Guidelines
   url: /application-guidelines/applying-for-licence/
@@ -17,8 +17,6 @@
     url: /application-guidelines/change-of-hotel-name/
   - title: Apply for An Exemption
     url: /application-guidelines/exemption/
-#   - title: Renew Hotel Licence
-#     url: /application-guidelines/renew-hotel-licence/
 - title: Legislation
   # url: /media/
   sub-links:
