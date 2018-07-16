@@ -15,7 +15,7 @@ For any change to the Hotel Name, please apply for a Change of Name on the Licen
 
 <table class="table-v">
   <tr>
-    <td>Approval Period</td>
+    <td>Application Period</td>
     <td>Throughout the year.</td> 
   </tr>
   <tr>
