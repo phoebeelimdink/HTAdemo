@@ -15,12 +15,12 @@ For any change to the Hotel Name, please apply for a Change of Name on the Licen
 
 <table class="table-v">
   <tr>
-    <td>Approval Process</td>
-    <td>The application will be processed if there are no objections from the public within fourteen(14) days of advertising the change of name in the Straits Times and Lianhe Zaobao.</td> 
+    <td>Approval Period</td>
+    <td>Throughout the year.</td> 
   </tr>
   <tr>
     <td>Processing Time</td>
-    <td>Minimum of two weeks.</td>
+    <td>Minimum of two weeks from the last day of the advertisements.</td>
   </tr>
   <tr>
     <td>Change of Hotel Name Fees</td>
@@ -48,8 +48,8 @@ For any change to the Hotel Name, please apply for a Change of Name on the Licen
 
 7. The Hotels Licensing Board reserves the right to prescribe additional conditions or waive existing conditions for any application for a Certificate of Registration and/or a Hotel-keeper's Licence. 
 
----
+### **For More Information**
 
-The step-by-step guide to completing the application can be found [here]({{site.baseurl}}/media/guides/files/guide-amendment-of-licence.pdf)
+8. The step-by-step guide you through the submission of the application for an change of Hotel Name can be found [here]({{site.baseurl}}/media/guides/files/guide-amendment-of-licence.pdf)
 
-For further clarification, please email [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg) or call 6736 6622.
+9. For further clarification, please email [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg) or call 6736 6622.
