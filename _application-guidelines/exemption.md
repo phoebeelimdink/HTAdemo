@@ -33,10 +33,10 @@ Singapore 247729.
 
 Email: [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg)
 
-5. If there are any changes in the applicant's or organisation's particulars after the submission of the application form, the Hotels Licensing Board must be informed in writing immediately.
+If there are any changes in the applicant's or organisation's particulars after the submission of the application form, the Hotels Licensing Board must be informed in writing immediately.
 
 ### **Approval Process**
 
-6. We will inform you in writing if your application is approved. 
+5. We will inform you in writing if your application is approved. 
 
-7. For further clarification, please email [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg) or call 6736 6622.
+6. For further clarification, please email [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg) or call 6736 6622.
