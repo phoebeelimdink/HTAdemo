@@ -27,7 +27,7 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
   </tr>
   <tr>
     <td>Processing Time</td>
-    <td>Minimum of 3 weeks upon receipt of all the documents required and placement of the advertisements</td>
+    <td>Minimum of 2 weeks from the pre-opening inspection date</td>
   </tr>
   <tr>
     <td>Annual Licence Fees</td>
