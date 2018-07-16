@@ -45,6 +45,6 @@ Applications for the renewal of the Certificate of Registration and Hotel-keeper
 
 ### **For More Information**
 
-5. The step-by-step guide to guide you through the submission of the application for a renewal of the Certificate of Registration and Hotel-keeper's Licence can be found [here]({{site.baseurl}}/files/resources/guides/guide-licence-renewal.pdf)
+5. The step-by-step guide to guide you through the submission of the application for a renewal of the Certificate of Registration and Hotel-keeper's Licence can be found [here]({{site.baseurl}}/files/resources/guides/guide-licence-renewal.pdf).
 
 6. For further clarification, please email [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg) or call 6736 6622.
