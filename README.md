@@ -67,3 +67,4 @@ If you are looking to edit anything on the **Privacy Statement page**, you are l
 #### Terms of Use
 If you are looking to edit anything on the **Privacy Statement page**, you are likely to find them in these folders:
 1. *EDIT-THIS/terms-of-use/terms-of-use.md*
+
