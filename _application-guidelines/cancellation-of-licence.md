@@ -22,8 +22,8 @@ Should the hotel decides to cease its hotel operation, either the Hotel-keeper, 
 
 4. Please arrange to return the Certificate of Registration and Hotel-keeper's Licence to the Board for cancellation.
 
----
+### **For More Information**
 
-The step-by-step guide to completing the application can be found [here]({{site.baseurl}}/media/guides/files/guide-cancellation-of-licence.pdf)
+5. The step-by-step guide to guide you through the submission of the application for cancellation of Certificate of Registration and Hotel--keeper's Licence can be found [here]({{site.baseurl}}/media/guides/files/guide-cancellation-of-licence.pdf)
 
-For further clarification, please email [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg) or call 6736 6622.
+6. For further clarification, please email [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg) or call 6736 6622.
