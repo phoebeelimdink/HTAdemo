@@ -75,6 +75,7 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
 
 10. After payment has been made, the Board will contact you regarding the collection of the Certificate and Licence. 
 
+
 11. The Hotels Licensing Board reserves the right to prescribe additional conditions por waive existing conditions for any application for a Certificate of Registration and/or a Hotel-keeper's Licence.
 
 ### **For More Information**
