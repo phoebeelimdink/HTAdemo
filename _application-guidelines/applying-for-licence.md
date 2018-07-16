@@ -43,6 +43,7 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
 
 3. Please submit all the following documents as attachments together with the online application.
 
+
 4. For the Certificate of Registration: 
 * Cover letter with the date of **proposed commencement of operation** of the Hotel.
 * **Grant of Written Permission** from [Urban Redevelopment Authority (URA)](https://www.ura.gov.sg){:target="_blank"} 
@@ -56,7 +57,7 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
 * Copy of proposed hotel-keeper's **employment pass** (if applicable)
 
 6. The Hotel-keeper:
-* Must be a person who holds a post of a Chief Executive or General Manager or equivalent to that of a Chief Executive Officer or General Manager of hte hotel; and 
+* Must be a person who holds a post of a Chief Executive or General Manager or equivalent to that of a Chief Executive Officer or General Manager of the hotel; and 
 * Must be a Singaporean, Permanent Resident or an Employment Pass holder. 
 
 ### **Approval Process**
