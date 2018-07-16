@@ -19,8 +19,8 @@ The proposed Hotel-Keeper:
 
 <table class="table-v">
   <tr>
-    <td>Who Can Apply</td>
-    <td>The proposed Hotel-Keeper:<br><br> (1) Must be a person who holds a post of a Chief Executive or General Manager or equivalent to that of a Chief Executive Officer or General Manager of the hotel; and <br>(2) must be a Singaporean, Permanent Resident or an Employment Pass holder.</td> 
+    <td>Application Period</td>
+    <td> Throughout the year</td> 
   </tr>
   <tr>
     <td>Processing Time</td>
@@ -51,8 +51,8 @@ The proposed Hotel-Keeper:
 
 6. The Hotels Licensing Board reserves the right to prescribe additional conditions or waive existing conditions for any application for a Hotel-keeper's Licence.
 
----
+### **For More Information**
 
-The step-by-step guide to completing the application can be found [here]({{site.baseurl}}/media/guides/files/guide-amendment-of-licence.pdf)
+7. The step-by-step guide to guide you through the submission of the application for an amendment of Hotel-keepern can be found [here]({{site.baseurl}}/media/guides/files/guide-amendment-of-licence.pdf)
 
-For further clarification, please email [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg) or call 6736 6622.
+8. For further clarification, please email [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg) or call 6736 6622.
