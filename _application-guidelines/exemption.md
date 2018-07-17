@@ -13,6 +13,19 @@ Exemptions only apply to the category of accommodation as prescribed under Secti
 * Student hostels approved by the Board; and
 * Residential clubs and other institutions approved by the Board
 
+### **At A Glance**
+
+<table class="table-v">
+  <tr>
+    <td>Application Period</td>
+    <td> Throughout the year</td> 
+  </tr>
+  <tr>
+    <td>Processing Time</td>
+    <td>Minimum of 2 weeks from the pre-opening inspection date</td>
+  </tr>
+ </table>
+
 ### **Submission of Applications**
 
 1. Application for exemption has to be made by completing and submitting the Exemption Form which can be found under templates and forms.
