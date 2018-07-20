@@ -19,7 +19,7 @@ Contains the Application Guidelines
 *media*
 Contains the media-related files, e.g. Forms and Templates and Guides
 
-*_data* 
+*_data*
 Contains the YAML files to make fine tweaks to the website.
 
 *images*
