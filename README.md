@@ -16,7 +16,7 @@ We therefore chose to supplement the Markdown syntax with YAML (.yml) – yet an
 *_application-guidelines*
 Contains the Application Guidelines 
 
-*media* 
+*media*
 Contains the media-related files, e.g. Forms and Templates and Guides
 
 *_data* 
