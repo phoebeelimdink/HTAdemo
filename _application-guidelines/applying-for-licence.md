@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-permalink: /application-guidelines/apply-for-licence/ 
+permalink: /application-guidelines/application-for-licence/ 
 title: Application for Licence 
 breadcrumb: Application Guidelines (Application for Licence) 
 last_updated: 01-04-2018 
