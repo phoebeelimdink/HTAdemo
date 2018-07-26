@@ -37,55 +37,7 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
 
 ### **Submission of Application**
 
-1. Application for the Certificate of Registration and Hotel-Keeper's licence is to be submitted online via the LicenceOne portal  person to manage the hotel
-
-> Note: 
-
-> * All hotels should have a valid Certificate of Registration and the Hotel-Keeper's Licence while the hotel is in operation. 
-
-> * The hotel can only commence operations after it has collected the Certificate and Licence.
-
-
-
-### **At A Glance**
-
-
-
-<table class="table-v">
-
-  <tr>
-
-    <td>Application Period</td>
-
-    <td>1 January to 30 November each year only</td>
-
-  </tr>
-
-  <tr>
-
-    <td>Processing Time</td>
-
-    <td>Minimum of 2 weeks from the pre-opening inspection date</td>
-
-  </tr>
-
-  <tr>
-
-    <td>Annual Licence Fees</td>
-
-    <td><b>Certificate of Registration</b> <br>(i) Hotel with 100 rooms and less - $200 <br>(ii) Hotel with 101-299 rooms - $300 <br> (iii) Hotel with 300 or more rooms - $400 <br><br> <b>Hotel-keeper's licence fees for hotels of all sizes</b> - $100</td>
-
-  </tr>
-
-</table>
-
-
-
-### **Submission of Application**
-
-
-
-1. Application for the Certificate of Registration and Hotel-Keeper's licence is to be submitted online via the LicenceOne portal at (https://licence1.business.gov.sg){:target="_blank"}.
+1. Application for the Certificate of Registration and Hotel-Keeper's licence is to be submitted online via the LicenceOne portal at [https://licence1.business.gov.sg](https://licence1.business.gov.sg){:target="_blank"}.
 
 2. Application for the Certificate of Registration and Hotel-Keeper's licence for new hotels can be made from 1 January to 30 November only.
 
