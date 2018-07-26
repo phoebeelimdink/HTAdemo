@@ -8,11 +8,11 @@ collection_name: application-guidelines
 
 ### **Application for Cancellation of Certificate of Registration and Hotel-Keeper's Licence**
 
-Should the hotel decides to cease its hotel operation, either the Hotel-keeper, Company Director or authorized personnel will need to submit a cancellation application and arrange to return the Certificate of Registration and Hotel-keeper's Licence to the Board for cancellation.
+Should the hotel decides to cease its hotel operations, the CorpPass authorized personnel will need to submit a cancellation application and arrange to return the Certificate of Registration and Hotel-Keeper's Licence to the Board for cancellation.
 
 ### **Submission of Application**
 
-1. Application for the cancellation of the Certificate of Registration and Hotel-keeper's licence is to be submitted online through the LicenceOne Portal at [https://licence1.business.gov.sg](https://licence1.business.gov.sg){:target="_blank"}.
+1. Application for the cancellation of the Certificate of Registration and Hotel-Keeper's licence is to be submitted online via the LicenceOne Portal at [https://licence1.business.gov.sg](https://licence1.business.gov.sg){:target="_blank"}.
 
 2. Please submit a cover letter with the date of cessation of the Hotel.
 
