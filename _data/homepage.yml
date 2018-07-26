@@ -15,9 +15,9 @@ hero-banner: /images/homepage/HLB_website_Blueprint.jpg
 # I want to dropdown
 i-want-to:
   - title: apply hotel licence
-    url: /application-guidelines/applying-for-licence/
+    url: /application-guidelines/application-for-licence/
   - title: apply for exemption
-    url: /application-guidelines/exemption/
+    url: /application-guidelines/application_for_exemption/
   - title: cancel hotel licence
     url: /application-guidelines/cancellation-of-licence/
   - title: change hotel-keeper
