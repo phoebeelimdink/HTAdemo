@@ -34,7 +34,7 @@ For any change to the Hotel Name, please apply for a Change of Hotel Name via th
 
 2. Please submit all the following documents as attachments together with the online application. 
 * **ACRA business profile** of the hotel name (if applicable)  
-* Copy of the advertisements in the **Straits Times and Lianhe Zaobao**. Section 9 of the Hotels Licensing Regulations requires the applicant to advertise within fourteen (14) days from the date of the online application. The advertisement must be in the format of a Notice. The application will be processed if there are no objections from the public within fourteen (14) days of the advertisement date.
+* **Copy of the advertisements in two daily newspapers**, for eg Straits Times and Lianhe Zaobao. Section 9 of the Hotels Licensing Regulations requires the applicant to advertise within fourteen (14) days from the date of the online application. The advertisement must be in the format of a Notice. The application will be processed if there are no objections from the public within fourteen (14) days of the advertisement date.
 
 ### **Approval Process**
 
