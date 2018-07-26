@@ -45,7 +45,7 @@ The proposed Hotel-Keeper:
 
 3. Processing of the application will take a minimum of two weeks upon receipt of all the documents required. 
 
-4. You will be informed via SMS and/or e-mail if your application has been approved. Payment can then be made online via the LicenceOne Portal at [https://licence1.business.gov.sg](https://licence1.business.gov.sg){:target="_blank"}. Fees for the Hotel-Keeper's Licence must be paid via the LicenceOne Portal before they can be issued. If the payment is not made within one month, the application will lapse and the applicant will need to submit a new application. 
+4. You will be informed via SMS and/or e-mail if your application has been approved. Payment can then be made online via the LicenceOne Portal at [https://licence1.business.gov.sg](https://licence1.business.gov.sg){:target="_blank"}. Fees for the Hotel-Keeper's Licence must be paid via the LicenceOne Portal before the licence can be issued. If the payment is not made within one month, the application will lapse and the applicant will need to submit a new application. 
 
 5. After payment has been made, the Board will contact you regarding the collection of the Hotel-Keeper's Licence. 
 
