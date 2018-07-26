@@ -46,7 +46,7 @@ Orchard Spring Lane
 Singapore 247729.
 Email: [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg)
 
-If there are any changes in the organisation's particulars after the submission of the application form, the Hotels Licensing Board must be informed in writing immediately.
+If there are any changes in the organisation's details after the submission of the application form, the Hotels Licensing Board must be informed in writing immediately.
 
 ### **Approval Process**
 
