@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Advertisement Template - Straits Times"
+title:  "Advertisement Templates"
 date:   2018-04-01
 file_url: "/files/resources/forms-and-templates/advertisement-template.doc"
 ---
