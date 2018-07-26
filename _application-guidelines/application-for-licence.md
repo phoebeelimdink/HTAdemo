@@ -37,7 +37,7 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
 
 ### **Submission of Application**
 
-1. Application for the Certificate of Registration and Hotel-Keeper's licence is to be submitted online via the LicenceOne portal at https://licence1.business.gov.sg/
+1. Application for the Certificate of Registration and Hotel-Keeper's licence is to be submitted online via the LicenceOne portal at (https://licence1.business.gov.sg){:target="_blank"}.
 
 2. Application for the Certificate of Registration and Hotel-Keeper's licence for new hotels can be made from 1 January to 30 November only.
 
