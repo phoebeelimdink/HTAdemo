@@ -7,7 +7,7 @@ last_updated: 01-04-2018
 collection_name: application-guidelines
 ---
 
-### **Applying for a Change of Hotel-Keeper**
+### **Application for a Change of Hotel-Keeper**
 
 For any change to the Hotel-Keeper, please apply for a Change of Hotel-Keeper on the LicenceOne Portal at [https://licence1.business.gov.sg](https://licence1.business.gov.sg){:target="_blank"} immediately.
 
