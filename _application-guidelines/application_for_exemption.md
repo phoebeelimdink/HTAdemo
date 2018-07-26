@@ -7,7 +7,7 @@ last_updated: 01-04-2018
 collection_name: application-guidelines
 ---
 
-### **Applying for An Exemption**
+### **Application for Exemption**
 
 Exemptions only apply to the following categories of accommodation as prescribed under Section 41 of the Hotels Licensing Regulations: 
 * Student hostels approved by the Board; and
