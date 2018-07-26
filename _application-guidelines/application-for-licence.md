@@ -37,6 +37,54 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
 
 ### **Submission of Application**
 
+1. Application for the Certificate of Registration and Hotel-Keeper's licence is to be submitted online via the LicenceOne portal  person to manage the hotel
+
+> Note: 
+
+> * All hotels should have a valid Certificate of Registration and the Hotel-Keeper's Licence while the hotel is in operation. 
+
+> * The hotel can only commence operations after it has collected the Certificate and Licence.
+
+
+
+### **At A Glance**
+
+
+
+<table class="table-v">
+
+  <tr>
+
+    <td>Application Period</td>
+
+    <td>1 January to 30 November each year only</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Processing Time</td>
+
+    <td>Minimum of 2 weeks from the pre-opening inspection date</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Annual Licence Fees</td>
+
+    <td><b>Certificate of Registration</b> <br>(i) Hotel with 100 rooms and less - $200 <br>(ii) Hotel with 101-299 rooms - $300 <br> (iii) Hotel with 300 or more rooms - $400 <br><br> <b>Hotel-keeper's licence fees for hotels of all sizes</b> - $100</td>
+
+  </tr>
+
+</table>
+
+
+
+### **Submission of Application**
+
+
+
 1. Application for the Certificate of Registration and Hotel-Keeper's licence is to be submitted online via the LicenceOne portal at (https://licence1.business.gov.sg){:target="_blank"}.
 
 2. Application for the Certificate of Registration and Hotel-Keeper's licence for new hotels can be made from 1 January to 30 November only.
@@ -52,11 +100,11 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
 * **Temporary Fire Permit (TFP) / Fire Safety Certificate (FSC)** from the [Singapore Civil Defence Force (SCDF)](https://www.scdf.gov.sg){:target="_blank"}  
 * Copy of the **advertisements in two daily newspapers**, for eg Straits Times and Lianhe Zaobao. Section 9 of the Hotels Licensing Regulations requires the applicant to advertise within fourteen (14) days from the date of the online application its intention to operate the hotel. The advertisement must be in the format of a Notice. The application will be processed if there are no objections from the public within fourteen (14) days of the advertisement date.
 
-5. For Hotel-keeper's Licence 
-* **Resume (Curriculum Vitae)** of the proposed hotel-keeper 
-* Copy of proposed hotel-keeper's **employment pass** (if applicable)
+5. For Hotel-Keeper's Licence 
+* **Resume (Curriculum Vitae)** of the proposed Hotel-Keeper 
+* Copy of proposed Hotel-Keeper's **employment pass** (if applicable)
 
-6. The Hotel-keeper:
+6. The Hotel-Keeper:
 * Must be a person who holds a post of a Chief Executive Officer or General Manager or equivalent to that of a Chief Executive Officer or General Manager of the hotel; and 
 * Must be a Singaporean, Permanent Resident or an Employment Pass holder. 
 
