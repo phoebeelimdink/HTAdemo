@@ -4,6 +4,9 @@
 #                                #
 ##################################
 
+# Favicon
+favicon: /images/homepage/favicon-hlb.ico
+
 # Agency logo
 agency-logo: /images/homepage/logo_hlb.svg
 
