@@ -342,3 +342,9 @@ $desktop: 960px + (2 * $gap) !default;
     background-color: darken(#ffffff, 10%);
   }
 }
+
+.hero-dropdown {
+  display: flex;
+  padding-top: 1.75rem;
+  padding-bottom: 1.75rem;
+}
