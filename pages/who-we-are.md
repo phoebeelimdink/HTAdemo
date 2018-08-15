@@ -1,5 +1,5 @@
 ---
-layout: who-we-are
+layout: simple-page
 title: Who We Are
 permalink: /who-we-are/
 breadcrumb: Who We Are
@@ -17,4 +17,18 @@ Established under the Hotels Act, HLB is empowered to administer the regulatory 
 
 The Chairman and members of the Hotels Licensing Board are appointed by the Minister of Trade and Industry to administer the Hotels Act.
 
-<!-- Refer to _data/who-we-are.yml to edit the list of board members -->
+**Mr Toh Yung Cheong**<br>
+Chairman, State Courts<br>
+[toh_yung_cheong@statecourts.gov.sg](toh_yung_cheong@statecourts.gov.sg)
+
+**Ms Goh Chin Chin, PPA(G)**<br>
+Member, Urban Redevelopment Authority<br>
+[goh_chin_chin@ura.gov.sg](goh_chin_chin@ura.gov.sg)
+
+**Ms Ong Huey Hong**<br>
+Member, Singapore Tourism Board<br>
+[ong_huey_hong@stb.gov.sg](ong_huey_hong@stb.gov.sg)
+
+**AC Tan Chia Han**<br>
+Member, Singapore Police Force<br>
+[tan_chia_han@spf.gov.sg](tan_chia_han@spf.gov.sg)

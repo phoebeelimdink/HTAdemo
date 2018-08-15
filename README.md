@@ -1,4 +1,4 @@
-# Welcome to Isomer Pages!
+# Welcome to Isomer Pages! 
 
 ## Why Markdown and YAML?
 
@@ -16,10 +16,10 @@ We therefore chose to supplement the Markdown syntax with YAML (.yml) – yet an
 *_application-guidelines*
 Contains the Application Guidelines 
 
-*media* 
+*media*
 Contains the media-related files, e.g. Forms and Templates and Guides
 
-*_data* 
+*_data*
 Contains the YAML files to make fine tweaks to the website.
 
 *images*
@@ -67,3 +67,4 @@ If you are looking to edit anything on the **Privacy Statement page**, you are l
 #### Terms of Use
 If you are looking to edit anything on the **Privacy Statement page**, you are likely to find them in these folders:
 1. *EDIT-THIS/terms-of-use/terms-of-use.md*
+
