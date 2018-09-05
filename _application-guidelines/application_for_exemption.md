@@ -33,8 +33,7 @@ Exemptions only apply to the following categories of accommodation as prescribed
 2. Applicants are to submit the documents and information set out below:
 * Application form for Exemption under the Hotels Act & Regulations
 * Grant of Written Permission from Urban Redevelopment Authority
-* ACRA business profile of entity
-* Temporary Fire Permit (TFP) / Fire Safety Certificate (FSC) from the Singapore Civil Defence Force (SCDF) 
+* ACRA business profile of entity 
 
 3. The Hotels Licensing Board may request for further information in addition to those stated in item 2.
 
