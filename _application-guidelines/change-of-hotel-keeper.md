@@ -53,6 +53,6 @@ The proposed Hotel-Keeper:
 
 ### **For More Information**
 
-7. The step-by-step guide to guide you through the submission of the application for an change of Hotel-Keeper can be found [here]({{site.baseurl}}/media/guides/files/guide-amendment-of-licence.pdf)
+7. The step-by-step guide to guide you through the submission of the application for an change of Hotel-Keeper can be found [here]({{site.baseurl}}/files/resources/guides/guide-amendment-of-licence.pdf)
 
 8. For further clarification, please email [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg) or call 6736 6622.
