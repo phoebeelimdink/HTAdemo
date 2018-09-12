@@ -50,6 +50,6 @@ For any change to the Hotel Name, please apply for a Change of Hotel Name via th
 
 ### **For More Information**
 
-8. The step-by-step guide to guide you through the submission of the application for an change of Hotel Name can be found [here]({{site.baseurl}}/media/guides/files/guide-amendment-of-licence.pdf)
+8. The step-by-step guide to guide you through the submission of the application for an change of Hotel Name can be found [here]({{site.baseurl}}/files/resources/guides/guide-amendment-of-licence.pdf)
 
 9. For further clarification, please email [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg) or call 6736 6622.
