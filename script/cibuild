@@ -23,4 +23,4 @@ echo $ACCESS_KEY_ID >> ~/.aws/config
 printf 'aws_secret_access_key=' >> ~/.aws/config
 echo $SECRET_ACCESS_KEY >> ~/.aws/config
 echo 'region=ap-southeast-1' >> ~/.aws/config
-aws s3 rm s3://isomer-hlb --recursive
+aws s3 rm s3://isomer-hlb.gov.sg --recursive
