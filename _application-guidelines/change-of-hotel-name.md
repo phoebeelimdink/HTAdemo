@@ -9,7 +9,7 @@ collection_name: application-guidelines
 
 ### **Application for a Change of Hotel Name**
 
-For any change to the Hotel Name, please apply for a Change of Hotel Name via the LicenceOne Portal at [https://licence1.business.gov.sg](https://licence1.business.gov.sg){:target="_blank"}. Please note that the hotel shall not change the name of the hotel without prior written approval of the Board.
+For any change to the Hotel Name, please apply for a Change of Hotel Name via the [LicenceOne Portal](https://licence1.business.gov.sg){:target="_blank"}. Please note that the hotel shall not change the name of the hotel without prior written approval of the Board.
 
 ### **At A Glance**
 
@@ -30,7 +30,7 @@ For any change to the Hotel Name, please apply for a Change of Hotel Name via th
 
 ### **Submission of Application**
 
-1. Application for a Change of Hotel Name is to be submitted online via the LicenceOne Portal at [https://licence1.business.gov.sg](https://licence1.business.gov.sg){:target="_blank"}.
+1. Application for a Change of Hotel Name is to be submitted online via the [LicenceOne Portal](https://licence1.business.gov.sg){:target="_blank"}.
 
 2. Please submit all the following documents as attachments together with the online application. 
 * **ACRA business profile** of the hotel name (if applicable)  
@@ -42,7 +42,7 @@ For any change to the Hotel Name, please apply for a Change of Hotel Name via th
 
 4. Processing of the application will take a minimum of two weeks following fourteen(14) days from the date of advertisements.
 
-5. You will be informed via SMS and/or e-mail if your application has been approved. Payment can then be made online via the LicenceOne Portal at [https://licence1.business.gov.sg](https://licence1.business.gov.sg){:target="_blank"}. Fees for the Certificate of Registration must be paid via the LicenceOne Portal before the Certificate can be issued. If the payment is not made within one month, the application will lapse and the applicant will need to submit a new application. 
+5. You will be informed via SMS and/or e-mail if your application has been approved. Payment can then be made online via the [LicenceOne Portal](https://licence1.business.gov.sg){:target="_blank"}. Fees for the Certificate of Registration must be paid via the LicenceOne Portal before the Certificate can be issued. If the payment is not made within one month, the application will lapse and the applicant will need to submit a new application. 
 
 6. After payment has been made, the Board will contact you regarding the collection of the Certificate of Registration and Hotel-Keeper's Licence (note: the Hotel-Keeper's Licence is re-issued as it bears the hotel name). 
 
