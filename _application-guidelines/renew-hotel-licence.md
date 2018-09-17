@@ -14,7 +14,8 @@ The Hotel licence to operate a hotel will expire on 31 December every year, rega
 Applications for the renewal of the Certificate of Registration and Hotel-Keeper's licence can only be made in the last quarter of the calendar year. Licensees will be notified by post and email on the renewal application process and requirements.
 
 > Note:
-> * Your hotel must have a valid Grant of Written Permission (WP), which expires no earlier than 1 January of the following year. 
+> * Your hotel must have a valid Grant of Written Permission (WP), which expires no earlier than 1 January of the following year.
+> * Should there be a change of Hotel-keeper, change of Hotel Name or hotel details in the renewal application, these changes will only take effect 1 January of the following year.
 > * Should there be a change of Hotel-Keeper, change of Hotel Name or hotel details in the renewal application, these changes will only take effect 1 January of the following year.
 > * If the changes are to be effected for the current year, please see the requirements as stated under the [Change of Hotel-Keeper](https://isomerpages-hlb.netlify.com/application-guidelines/change-of-hotel-keeper/) or [Change of Hotel-Name](https://isomerpages-hlb.netlify.com/application-guidelines/change-of-hotel-name/).
 
