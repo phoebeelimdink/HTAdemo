@@ -28,7 +28,3 @@ Member, Urban Redevelopment Authority<br>
 **Ms Ong Huey Hong**<br>
 Member, Singapore Tourism Board<br>
 [ong_huey_hong@stb.gov.sg](ong_huey_hong@stb.gov.sg)
-
-**AC Tan Chia Han**<br>
-Member, Singapore Police Force<br>
-[tan_chia_han@spf.gov.sg](tan_chia_han@spf.gov.sg)
