@@ -24,3 +24,5 @@ deploy:
   skip_cleanup: true
   local_dir: _site
   region: ap-southeast-1
+after_deploy:
+  - aws cloudfront create-invalidation --distribution-id $CDN_DISTRIBUTION_ID --paths "/*"
