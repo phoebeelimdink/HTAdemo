@@ -4,7 +4,7 @@
 #                                #
 ##################################
 
-- title: APPLICATION GUIDELINES
+- title: Application Guidelines
   url: /application-guidelines/application-for-licence/
   sub-links:
   - title: Application for Licence
@@ -19,7 +19,7 @@
     url: /application-guidelines/change-of-hotel-name/
   - title: Renewal of Licence
     url: /application-guidelines/renew-hotel-licence/
-- title: LEGISLATION
+- title: Legislation
   sub-links:
   - title: Hotels Act
     url: https://sso.agc.gov.sg/Act/HA1954
@@ -27,7 +27,7 @@
   - title: Hotels Licensing Regulations
     url: https://sso.agc.gov.sg/SL/HA1954-RG1?DocDate=20170724
     external: true
-- title: RESOURCES
+- title: Resources
   url: /resources/
   sub-links:
   - title: Forms and Templates
@@ -37,7 +37,7 @@
   - title: Registered Hotels
     url: https://licence1.business.gov.sg/web/frontier/hotel-listing-search
     external: true
-- title: WHO WE ARE
+- title: Who We Are
   url: /who-we-are/
-- title: CONTACT US
+- title: Contact Us
   url: /contact-us/
