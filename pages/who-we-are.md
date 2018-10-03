@@ -35,4 +35,4 @@ Member, Singapore Police Force<br>
 
 **AC Lian Wee Teck**<br>
 Member, Singapore Civil Defence Force<br>
-[lian_wee_teck@scdf.gov.sg](lian_wee_teck@stb.gov.sg)
+[lian_wee_teck@scdf.gov.sg](lian_wee_teck@scdf.gov.sg)
