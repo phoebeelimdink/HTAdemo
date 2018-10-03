@@ -31,8 +31,8 @@ Member, Singapore Tourism Board<br>
 
 **AC Tan Tin Wee**<br>
 Member, Singapore Police Force<br>
-[tan_tin_weeg@spf.gov.sg](ong_huey_hong@stb.gov.sg)
+[tan_tin_wee@spf.gov.sg](tan_tin_wee@spf.gov.sg)
 
 **AC Lian Wee Teck**<br>
 Member, Singapore Civil Defence Force<br>
-[lian_wee_teck@scdf.gov.sg](ong_huey_hong@stb.gov.sg)
+[lian_wee_teck@scdf.gov.sg](lian_wee_teck@stb.gov.sg)
