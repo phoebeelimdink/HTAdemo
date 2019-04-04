@@ -15,8 +15,6 @@ Established under the Hotels Act, HLB is empowered to administer the regulatory 
 
 ### **Our Board Members**
 
-www.facebook.com/fdsakj
-
 The Chairman and members of the Hotels Licensing Board are appointed by the Minister of Trade and Industry to administer the Hotels Act.
 
 **Mr Toh Yung Cheong**<br>
