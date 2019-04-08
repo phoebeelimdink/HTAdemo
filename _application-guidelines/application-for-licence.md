@@ -79,6 +79,6 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
 
 ### **For More Information**
 
-12. The step-by-step guide to guide you through the submission of the application for a Certificate of Registration and Hotel-Keeper's Licence can be found [here]({{site.baseurl}}/files/resources/guides/guide-new-application.pdf).
+12. The step-by-step guide to guide you through the submission of the application for a Certificate of Registration and Hotel-Keeper's Licence can be found [here](/files/resources/guides/guide-new-application.pdf).
 
 13. For further clarification, please email [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg) or call 6736 6622.        
