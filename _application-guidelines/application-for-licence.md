@@ -73,12 +73,12 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
 
 9. You will be informed via SMS and/or e-mail if your application has been approved. Payment can then be made online via the [LicenceOne Portal](https://licence1.business.gov.sg){:target="_blank"}. Fees for both the Certificate of Registration and Hotel-keeper's Licence must be paid via the LicenceOne Portal before they can be issued. If the payment is not made within one month, the application will lapse and the applicant will need to submit a new application. 
 
-10. After payment has been made, you will receive a print notification to print the Certificate and Licence via LicenceOne. The step-by-step guide to guide you through the printing of the Certificate and Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf)
+10. After payment has been made, you will receive a print notification to print the Certificate and Licence via LicenceOne. The step-by-step guide to guide you through the printing of the Certificate and Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf).
 
 11. The Hotels Licensing Board reserves the right to prescribe additional conditions or waive existing conditions for any application for a Certificate of Registration and/or a Hotel-keeper's Licence.
 
 ### **For More Information**
 
-12. The step-by-step guide to guide you through the submission of the application for a Certificate of Registration and Hotel-Keeper's Licence can be found [here]({{site.baseurl}}/files/resources/guides/guide-new-application.pdf)
+12. The step-by-step guide to guide you through the submission of the application for a Certificate of Registration and Hotel-Keeper's Licence can be found [here]({{site.baseurl}}/files/resources/guides/guide-new-application.pdf).
 
 13. For further clarification, please email [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg) or call 6736 6622.        
