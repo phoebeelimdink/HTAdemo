@@ -47,7 +47,7 @@ The proposed Hotel-Keeper:
 
 4. You will be informed via SMS and/or e-mail if your application has been approved. Payment can then be made online via the [LicenceOne Portal](https://licence1.business.gov.sg){:target="_blank"}. Fees for the Hotel-Keeper's Licence must be paid via the LicenceOne Portal before the licence can be issued. If the payment is not made within one month, the application will lapse and the applicant will need to submit a new application. 
 
-5. After payment has been made, the Board will contact you regarding the collection of the Hotel-Keeper's Licence. 
+5. After payment has been made, you will receive a print notification to print the Licence via LicenceOne. 
 
 6. The Hotels Licensing Board reserves the right to prescribe additional conditions or waive existing conditions for any application for a Hotel-Keeper's Licence.
 
