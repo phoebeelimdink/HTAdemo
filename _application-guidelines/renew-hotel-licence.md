@@ -37,14 +37,12 @@ Applications for the renewal of the Certificate of Registration and Hotel-Keeper
 
 ### **Approval Process**
 
-2. You will be informed via SMS and/or e-mail if your application has been approved.
+2. You will be informed via SMS and/or e-mail if your application has been approved. You are required to print the Certificate of Registration and/or Hotel-keeper's licence via LicenceOne. The step-by-step guide to guide you through the printing of the Certificate and Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf).
 
-3. The Hotels Licensing Board will send the hotel an email on the details of the collection of the Hotel-Keeper's Licence.
-
-4. The Hotels Licensing Board reserves the right to prescribe additional conditions or waive existing conditions for any application for a renewal of the Certificate of Registration and/or a Hotel-Keeper's Licence.
+3. The Hotels Licensing Board reserves the right to prescribe additional conditions or waive existing conditions for any application for a renewal of the Certificate of Registration and/or a Hotel-Keeper's Licence.
 
 ### **For More Information**
 
-5. The step-by-step guide to guide you through the submission of the application for a renewal of the Certificate of Registration and Hotel-Keeper's Licence can be found [here]({{site.baseurl}}/files/resources/guides/guide-licence-renewal.pdf).
+4. The step-by-step guide to guide you through the submission of the application for a renewal of the Certificate of Registration and Hotel-Keeper's Licence can be found [here]({{site.baseurl}}/files/resources/guides/guide-licence-renewal.pdf).
 
-6. For further clarification, please email [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg) or call 6736 6622.
+5. For further clarification, please email [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg) or call 6736 6622.
