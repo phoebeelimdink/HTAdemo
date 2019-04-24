@@ -31,24 +31,26 @@ Exemptions only apply to the following categories of accommodation as prescribed
 1. Application for exemption has to be made by completing and submitting the Exemption Form which can be found under templates and forms.
 
 2. Applicants are to submit the documents and information set out below:
-* Application form for Exemption under the Hotels Act & Regulations
-* Grant of Written Permission from Urban Redevelopment Authority
-* ACRA business profile of entity 
+
+   * Application form for Exemption under the Hotels Act & Regulations
+   * Grant of Written Permission from Urban Redevelopment Authority
+   * ACRA business profile of entity 
 
 3. The Hotels Licensing Board may request for further information in addition to those stated in item 2.
 
 4. The application form and supporting documents can be submitted by mail or email to: 
-Address:
-Hotels Licensing Board 
-Tourism Court
-Orchard Spring Lane
-Singapore 247729.
-Email: [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg)
 
-If there are any changes in the organisation's details after the submission of the application form, the Hotels Licensing Board must be informed in writing immediately.
+   Address:  
+   Hotels Licensing Board   
+   Tourism Court  
+   Orchard Spring Lane  
+   Singapore 247729.  
+   Email: <hlb_info@hlb.gov.sg>
 
-### **Approval Process**
+   If there are any changes in the organisation's details after the submission of the application form, the Hotels Licensing Board must be informed in writing immediately.
+
+   ### **Approval Process**
 
 5. The Board will inform you of the outcome of the application in writing. 
 
-6. For further clarification, please email [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg) or call 6736 6622.
+6. For further clarification, please email <hlb_info@hlb.gov.sg> or call 6736 6622.

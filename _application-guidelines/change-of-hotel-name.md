@@ -33,14 +33,15 @@ For any change to the Hotel Name, please apply for a Change of Hotel Name via th
 1. Application for a Change of Hotel Name is to be submitted online via the [LicenceOne Portal](https://licence1.business.gov.sg){:target="_blank"}.
 
 2. Please submit all the following documents as attachments together with the online application. 
-* **ACRA business profile** of the hotel name (if applicable)  
-* **Copy of the advertisements in two daily newspapers**, for eg Straits Times and Lianhe Zaobao. Section 9 of the Hotels Licensing Regulations requires the applicant to advertise within two weeks of the date of the online application. The advertisement must be in the format of a Notice. The application will be processed if there are no objections from the public within fourteen (14) days of the advertisement date.
 
-### **Approval Process**
+   * **ACRA business profile** of the hotel name (if applicable)  
+   * **Copy of the advertisements in two daily newspapers**, for eg Straits Times and Lianhe Zaobao. Section 9 of the Hotels Licensing Regulations requires the applicant to advertise within two weeks of the date of the online application. The advertisement must be in the format of a Notice. The application will be processed if there are no objections from the public within fourteen (14) days of the advertisement date.
 
-3. The application will be processed if there are no objections from the public within fourteen(14) days of the advertisement date.
+   ### **Approval Process**
 
-4. Processing of the application will take a minimum of two weeks following fourteen(14) days from the date of advertisements.
+3. The application will be processed if there are no objections from the public within fourteen (14) days of the advertisement date.
+
+4. Processing of the application will take a minimum of two weeks following fourteen (14) days from the date of advertisements.
 
 5. You will be informed via SMS and/or e-mail if your application has been approved. Payment can then be made online via the [LicenceOne Portal](https://licence1.business.gov.sg){:target="_blank"}. Fees for the Certificate of Registration must be paid via the LicenceOne Portal before the Certificate can be issued. If the payment is not made within one month, the application will lapse and the applicant will need to submit a new application. 
 
@@ -48,8 +49,8 @@ For any change to the Hotel Name, please apply for a Change of Hotel Name via th
 
 7. The Hotels Licensing Board reserves the right to prescribe additional conditions or waive existing conditions for any application for a Certificate of Registration and/or a Hotel-keeper's Licence. 
 
-### **For More Information**
+   ### **For More Information**
 
 8. The step-by-step guide to guide you through the submission of the application for an change of Hotel Name can be found [here](/files/resources/guides/guide-amendment-of-licence.pdf).
 
-9. For further clarification, please email [hlb_info@hlb.gov.sg](mailto:hlb_info@hlb.gov.sg) or call 6736 6622.
+9. For further clarification, please email <hlb_info@hlb.gov.sg> or call 6736 6622.

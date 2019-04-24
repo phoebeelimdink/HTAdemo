@@ -4,7 +4,7 @@
   "description": "The HLB website is built using Isomer, a GovTech product. For more information about Isomer, please go to https://isomer.gov.sg.",
   "main": "index.js",
   "dependencies": {
-    "@isomerpages/isomerpages-travisci-scripts": "^1.4.0"
+    "@isomerpages/isomerpages-travisci-scripts": "^1.4.9"
   },
   "devDependencies": {},
   "scripts": {
