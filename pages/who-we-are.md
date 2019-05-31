@@ -29,10 +29,10 @@ Member, Urban Redevelopment Authority<br>
 Member, Singapore Tourism Board<br>
 [ong_huey_hong@stb.gov.sg](ong_huey_hong@stb.gov.sg)
 
-**AC Tan Tin Wee**<br>
+**DAC Lim Wei-Yang Julius**<br>
 Member, Singapore Police Force<br>
-[tan_tin_wee@spf.gov.sg](tan_tin_wee@spf.gov.sg)
+[julius_lim@spf.gov.sg](julius_lim@spf.gov.sg)
 
-**AC Francis Ng**<br>
+**AC Ng How Juah, Francis, PPA(G)**<br>
 Member, Singapore Civil Defence Force<br>
 [francis_ng@scdf.gov.sg](francis_ng@scdf.gov.sg)
