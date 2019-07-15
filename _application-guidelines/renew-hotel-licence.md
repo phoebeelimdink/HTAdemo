@@ -1,8 +1,6 @@
 ---
-layout: leftnav-page-content
 permalink: /application-guidelines/renew-hotel-licence/
 title: Renew Hotel Licence
-breadcrumb: Application Guidelines (Renew Hotel Licence)
 last_updated: 01-04-2018
 collection_name: application-guidelines
 ---

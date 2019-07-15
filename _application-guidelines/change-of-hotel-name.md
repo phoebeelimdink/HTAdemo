@@ -1,7 +1,5 @@
 ---
-layout: leftnav-page-content
 permalink: /application-guidelines/change-of-hotel-name/
-breadcrumb: Application Guidelines (Change of Hotel Name)
 title: Change of Hotel Name
 last_updated: 01-04-2018
 collection_name: application-guidelines

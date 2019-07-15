@@ -1,7 +1,5 @@
 ---
-layout: leftnav-page-content
 permalink: /application-guidelines/cancellation-of-licence/
-breadcrumb: Application Guidelines (Cancellation of Licence) 
 title: Cancellation of Licence
 collection_name: application-guidelines
 ---

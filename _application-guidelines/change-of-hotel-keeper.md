@@ -1,7 +1,5 @@
 ---
-layout: leftnav-page-content
 permalink: /application-guidelines/change-of-hotel-keeper/
-breadcrumb: Application Guidelines (Change of Hotel Keeper) 
 title: Change of Hotel-Keeper
 last_updated: 01-04-2018
 collection_name: application-guidelines
