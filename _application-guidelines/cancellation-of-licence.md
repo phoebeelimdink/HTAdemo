@@ -1,7 +1,6 @@
 ---
 permalink: /application-guidelines/cancellation-of-licence/
 title: Cancellation of Licence
-collection_name: application-guidelines
 ---
 
 ### **Application for Cancellation of Certificate of Registration and Hotel-Keeper's Licence**

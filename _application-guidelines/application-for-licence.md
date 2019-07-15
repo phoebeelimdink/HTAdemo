@@ -2,7 +2,6 @@
 permalink: /application-guidelines/application-for-licence/ 
 title: Application for Licence 
 last_updated: 01-04-2018 
-collection_name: application-guidelines
 ---
 
 ### **Application for Certification of Registration & Hotel-Keeper's Licence**

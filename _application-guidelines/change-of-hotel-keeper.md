@@ -2,7 +2,6 @@
 permalink: /application-guidelines/change-of-hotel-keeper/
 title: Change of Hotel-Keeper
 last_updated: 01-04-2018
-collection_name: application-guidelines
 ---
 
 ### **Application for a Change of Hotel-Keeper**
