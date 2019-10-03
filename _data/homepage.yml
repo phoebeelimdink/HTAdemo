@@ -17,11 +17,16 @@ hero-banner: /images/homepage/HLB_website_Blueprint.jpg
 
 key-highlights:
   - title: Applying for a new licence
+    # description:   
     url: /application-guidelines/application-for-licence/
-  - title: Renewing your licence 
+    # external: true
+  - title: Renewing your licence
+    # description: 
     url: /application-guidelines/renew-hotel-licence/
+    # external: true
   - title: Notices
-    url: /notices/1a-2019-q4
+    # description: /notices/1a-2019-q4
+    url: /events/pst-conference/
 
 # Resources Section
 resources-title: Resources
