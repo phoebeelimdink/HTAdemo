@@ -15,12 +15,9 @@ hero-title: Hotels licensing in Singapore
 hero-subtitle: An easy platform to search for information related to hotel licensing
 hero-banner: /images/homepage/HLB_website_Blueprint.jpg 
 
-# Key Highlights
-# Setting [external: true] will open the url in a new window
 key-highlights:
   - title: Applying for a new licence
     url: /application-guidelines/application-for-licence/
-    external: true
   - title: Renewing your licence 
     url: /application-guidelines/renew-hotel-licence/
   - title: Notices
