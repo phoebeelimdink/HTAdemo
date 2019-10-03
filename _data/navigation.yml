@@ -37,6 +37,11 @@
   - title: Registered Hotels
     url: https://licence1.business.gov.sg/web/frontier/hotel-listing-search
     external: true
+- title: Notices
+  sub-links:
+  - title: 2019
+    url: /Notices/1a-2019
+    external: true
 - title: Who We Are
   url: /who-we-are/
 - title: Contact Us
