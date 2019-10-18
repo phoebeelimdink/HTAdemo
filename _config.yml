@@ -56,7 +56,7 @@ paginate_path: "/resources/page:num"
 ##################################
 
 # Homepage sections
-homepage_hero_i_want_to: true # if i_want_to is true, there will be no key highlights 
+homepage_hero_i_want_to: false # if i_want_to is true, there will be no key highlights 
 homepage_programmes: false
 homepage_resources: true
 homepage_careers: false
