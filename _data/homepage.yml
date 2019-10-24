@@ -16,17 +16,17 @@ hero-subtitle: An easy platform to search for information related to hotel licen
 hero-banner: /images/homepage/HLB_website_Blueprint.jpg 
 
 key-highlights:
-  - title: Applying for a new licence
-    # description:   
-    url: /application-guidelines/application-for-licence/
+  - title: Notices
+    # description: View advertisements on intent to operate a Hotel   
+    url: /notices/1a-2019-q4
     # external: true
-  - title: Renewing your licence
-    # description: 
+  - title: Registered Hotels
+    # description: See the list of registered hotels in Singapore
     url: /application-guidelines/renew-hotel-licence/
     # external: true
-  - title: Notices
-    # description: 
-    url: /notices/1a-2019-q4
+  - title: Hotels Licensing Legislation
+    # description: Read about the Hotels Act and Hotels Licensing Regulations
+    url: 
 
 # Resources Section
 resources-title: Resources
