@@ -17,15 +17,15 @@ hero-banner: /images/homepage/HLB_website_Blueprint.jpg
 
 key-highlights:
   - title: Notices
-    # description: View advertisements on intent to operate a Hotel   
+    description: View advertisements on of applications for a Certificate of Registration   
     url: /notices/1a-2019-q4
     # external: true
   - title: Registered Hotels
-    # description: See the list of registered hotels in Singapore
+    description: View the list of registered hotels in Singapore
     url: https://licence1.business.gov.sg/web/frontier/hotel-listing-search
     # external: true
-  - title: Hotels Licensing Legislation
-    # description: Read about the Hotels Act and Hotels Licensing Regulations
+  - title: Hotels Legislation
+    description: Read about the Hotels Act and Licensing Regulations
     url: https://sso.agc.gov.sg/Act/HA1954
 
 # Resources Section
