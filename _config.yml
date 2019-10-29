@@ -45,6 +45,8 @@ breadcrumbs:
 collections:
   application-guidelines:
     output: true
+  notices:
+    output: true
 
 # Resource Room and Pagination
 resources_name: "resources"
