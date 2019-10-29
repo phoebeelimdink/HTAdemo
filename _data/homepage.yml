@@ -17,7 +17,7 @@ hero-banner: /images/homepage/HLB_website_Blueprint.jpg
 
 key-highlights:
   - title: Notices
-    description: View advertisements on of applications for a Certificate of Registration   
+    description: View advertisements of applications for a Certificate of Registration   
     url: /notices/1a-2019-q4
     # external: true
   - title: Registered Hotels
