@@ -33,7 +33,7 @@ Applications for the renewal of the Certificate of Registration and Hotel-Keeper
 
 ### **Submission of Applications**
 
-1. Application for the renewal of the Certificate of Registration and Hotel-keeper's licence and payment of the fees are to be submitted online via [GoBusiness Licensing](https://go.business.gov.sg/licences){:target="_blank"}.
+1. Application for the renewal of the Certificate of Registration and Hotel-keeper's licence and payment of the fees are to be submitted online via [GoBusiness Licensing](https://www.gobusiness.gov.sg/licences){:target="_blank"}.
 
    ### **Approval Process**
 
