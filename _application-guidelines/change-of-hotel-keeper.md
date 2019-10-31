@@ -9,7 +9,7 @@ collection_name: application-guidelines
 
 ### **Application for a Change of Hotel-Keeper**
 
-For any change to the Hotel-Keeper, please apply for a Change of Hotel-Keeper on [GoBusiness Licensing](https://go.business.gov.sg/licences){:target="_blank"} immediately.
+For any change to the Hotel-Keeper, please apply for a Change of Hotel-Keeper on [GoBusiness Licensing](https://gobusiness.gov.sg/licences){:target="_blank"} immediately.
 
 The proposed Hotel-Keeper:
 * Must be a person who holds a post of a Chief Executive Officer or General Manager or equivalent to that of a Chief Executive Officer or General Manager of the hotel; and 
