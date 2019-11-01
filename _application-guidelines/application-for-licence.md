@@ -37,7 +37,7 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
 
 ### **Submission of Application**
 
- 1. Application for the Certificate of Registration and Hotel-Keeper's licence is to be submitted online via [GoBusiness Licensing](https://go.business.gov.sg/licences){:target="_blank"}.
+ 1. Application for the Certificate of Registration and Hotel-Keeper's licence is to be submitted online via [GoBusiness Licensing](https://www.gobusiness.gov.sg/licences){:target="_blank"}.
 
  2. Application for the Certificate of Registration and Hotel-Keeper's licence for new hotels can be made from 1 January to 30 November only.
 
@@ -74,7 +74,7 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
 
  8. Processing of the application will take a minimum of two weeks from the pre-opening inspection date. 
 
- 9. You will be informed via SMS and/or e-mail if your application has been approved. Payment can then be made online via [GoBusiness Licensing](https://go.business.gov.sg/licences){:target="_blank"}. Fees for both the Certificate of Registration and Hotel-keeper's Licence must be paid via the GoBusiness Licensing portal before they can be issued. If the payment is not made within one month, the application will lapse and the applicant will need to submit a new application. 
+ 9. You will be informed via SMS and/or e-mail if your application has been approved. Payment can then be made online via [GoBusiness Licensing](https://www.gobusiness.gov.sg/licences){:target="_blank"}. Fees for both the Certificate of Registration and Hotel-keeper's Licence must be paid via the GoBusiness Licensing portal before they can be issued. If the payment is not made within one month, the application will lapse and the applicant will need to submit a new application. 
 
 10. After payment has been made, you will receive a print notification to print the Certificate and Licence via GoBusiness Licensing. The step-by-step guide to guide you through the printing of the Certificate and Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf).
 

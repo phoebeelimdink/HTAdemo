@@ -9,7 +9,7 @@ collection_name: application-guidelines
 
 ### **Application for a Change of Hotel-Keeper**
 
-For any change to the Hotel-Keeper, please apply for a Change of Hotel-Keeper on [GoBusiness Licensing](https://go.business.gov.sg/licences){:target="_blank"} immediately.
+For any change to the Hotel-Keeper, please apply for a Change of Hotel-Keeper on [GoBusiness Licensing](https://www.gobusiness.gov.sg/licences){:target="_blank"} immediately.
 
 The proposed Hotel-Keeper:
 * Must be a person who holds a post of a Chief Executive Officer or General Manager or equivalent to that of a Chief Executive Officer or General Manager of the hotel; and 
@@ -34,7 +34,7 @@ The proposed Hotel-Keeper:
 
 ### **Submission of Application**
 
-1. Application for a Change of Hotel-Keeper is to be submitted online via [GoBusiness Licensing](https://go.business.gov.sg/licences){:target="_blank"}.
+1. Application for a Change of Hotel-Keeper is to be submitted online via [GoBusiness Licensing](https://www.gobusiness.gov.sg/licences){:target="_blank"}.
 
 2. The following documents must be submitted together with the online application:
 
@@ -45,7 +45,7 @@ The proposed Hotel-Keeper:
 
 3. Processing of the application will take a minimum of two weeks upon receipt of all the documents required. 
 
-4. You will be informed via SMS and/or e-mail if your application has been approved. Payment can then be made online via [GoBusiness Licensing](https://go.business.gov.sg/licences){:target="_blank"}. Fees for the Hotel-Keeper's Licence must be paid via the GoBusiness Licensing Portal before the licence can be issued. If the payment is not made within one month, the application will lapse and the applicant will need to submit a new application. 
+4. You will be informed via SMS and/or e-mail if your application has been approved. Payment can then be made online via [GoBusiness Licensing](https://www.gobusiness.gov.sg/licences){:target="_blank"}. Fees for the Hotel-Keeper's Licence must be paid via the GoBusiness Licensing Portal before the licence can be issued. If the payment is not made within one month, the application will lapse and the applicant will need to submit a new application. 
 
 5. After payment has been made, you will receive a print notification to print the Licence via GoBusiness Licensing. The step-by-step guide to guide you through the printing of the Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf).
 

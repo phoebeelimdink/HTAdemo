@@ -9,7 +9,7 @@ collection_name: application-guidelines
 
 ### **Application for a Change of Hotel Name**
 
-For any change to the Hotel Name, please apply for a Change of Hotel Name via [GoBusiness Licensing](https://go.business.gov.sg/licences){:target="_blank"}. Please note that the hotel shall not change the name of the hotel without prior written approval of the Board.
+For any change to the Hotel Name, please apply for a Change of Hotel Name via [GoBusiness Licensing](https://www.gobusiness.gov.sg/licences){:target="_blank"}. Please note that the hotel shall not change the name of the hotel without prior written approval of the Board.
 
 ### **At A Glance**
 
@@ -30,7 +30,7 @@ For any change to the Hotel Name, please apply for a Change of Hotel Name via [G
 
 ### **Submission of Application**
 
-1. Application for a Change of Hotel Name is to be submitted online via [GoBusiness Licensing](https://go.business.gov.sg/licences){:target="_blank"}.
+1. Application for a Change of Hotel Name is to be submitted online via [GoBusiness Licensing](https://www.gobusiness.gov.sg/licences){:target="_blank"}.
 
 2. Please submit all the following documents as attachments together with the online application. 
 
@@ -43,7 +43,7 @@ For any change to the Hotel Name, please apply for a Change of Hotel Name via [G
 
 4. Processing of the application will take a minimum of two weeks following fourteen (14) days from the date of advertisements.
 
-5. You will be informed via SMS and/or e-mail if your application has been approved. Payment can then be made online via [GoBusiness Licensing](https://go.business.gov.sg/licences){:target="_blank"}. Fees for the Certificate of Registration must be paid via the GoBusiness Licensing Portal before the Certificate can be issued. If the payment is not made within one month, the application will lapse and the applicant will need to submit a new application. 
+5. You will be informed via SMS and/or e-mail if your application has been approved. Payment can then be made online via [GoBusiness Licensing](https://www.gobusiness.gov.sg/licences){:target="_blank"}. Fees for the Certificate of Registration must be paid via the GoBusiness Licensing Portal before the Certificate can be issued. If the payment is not made within one month, the application will lapse and the applicant will need to submit a new application. 
 
 6. After payment has been made, you will receive a print notification to print the Certificate and Licence via GoBusiness Licensing (note: the Hotel-Keeper's Licence is re-issued as it bears the hotel name). The step-by-step guide to guide you through the printing of the Certificate and Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf).
 
