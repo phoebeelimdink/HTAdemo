@@ -35,11 +35,11 @@ For any change to the Hotel Name, please apply for a Change of Hotel Name via th
 2. Please submit all the following documents as attachments together with the online application. 
 
    * **ACRA business profile** of the hotel name (if applicable)  
-   * **Copy of the advertisement in one English newspaper**, for e.g. Straits Times. Section 9 of the Hotels Licensing Regulations requires the applicant to advertise within two weeks of the date of the online application. The advertisement must be in the format of a Notice. The application will be processed if there are no objections from the public within fourteen (14) days of the advertisement date.
+   * **Copy of the advertisement according to the Notice template in PDF format**. The electronic notice ("e-notice") will  typically be published on the HLB website within 3 working days from the date in which the e-notice is submitted with complete information to the Board. 
 
    ### **Approval Process**
 
-3. The application will be processed if there are no objections from the public within fourteen (14) days of the advertisement date.
+3. Any notice of objection lodged with HLB within two weeks of the advertisement will be taken into account in the assessment of the application for a Certificate of Registration.
 
 4. Processing of the application will take a minimum of two weeks following fourteen (14) days from the date of advertisements.
 
