@@ -41,7 +41,7 @@ For any change to the Hotel Name, please apply for a Change of Hotel Name via th
 
 3. Any notice of objection lodged with HLB within two weeks of the advertisement will be taken into account in the assessment of the application for a Certificate of Registration.
 
-4. Processing of the application will take a minimum of two weeks following fourteen (14) days from the date of advertisements.
+4. Processing of the application will take a minimum of two weeks following fourteen (14) days from the date when the e-notice is published on the HLB website.
 
 5. You will be informed via SMS and/or e-mail if your application has been approved. Payment can then be made online via the [LicenceOne Portal](https://licence1.business.gov.sg){:target="_blank"}. Fees for the Certificate of Registration must be paid via the LicenceOne Portal before the Certificate can be issued. If the payment is not made within one month, the application will lapse and the applicant will need to submit a new application. 
 
