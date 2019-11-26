@@ -25,9 +25,9 @@ Chairman, State Courts<br>
 Member, Urban Redevelopment Authority<br>
 [goh_chin_chin@ura.gov.sg](goh_chin_chin@ura.gov.sg)
 
-**Ms Ong Huey Hong**<br>
+**Ms Tan Yen Nee**<br>
 Member, Singapore Tourism Board<br>
-[ong_huey_hong@stb.gov.sg](ong_huey_hong@stb.gov.sg)
+[Tan_Yen_Nee@stb.gov.sg](Tan_Yen_Nee@stb.gov.sg)
 
 **DAC Lim Wei-Yang Julius**<br>
 Member, Singapore Police Force<br>
