@@ -35,7 +35,7 @@ For any change to the Hotel Name, please apply for a Change of Hotel Name via [G
 2. Please submit all the following documents as attachments together with the online application. 
 
    * **ACRA business profile** of the hotel name (if applicable)  
-   * **Copy of the advertisement according to the Notice template in PDF format**. The electronic notice ("e-notice") will typically be published on the HLB website within 3 working days from the date in which the e-notice is submitted with complete information to the Board. The step-by-step guide on how to upload the e-notice can be found [here](/files/resources/guides/submission-of-e-notice.pdf).
+   * With effect from 1 December 2019, **Copy of the advertisement according to the Notice template in PDF format**. The electronic notice ("e-notice") will typically be published on the HLB website within 3 working days from the date in which the e-notice is submitted with complete information to the Board. The step-by-step guide on how to upload the e-notice can be found [here](/files/resources/guides/submission-of-e-notice.pdf).
 
    ### **Approval Process**
 
