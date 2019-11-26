@@ -27,7 +27,7 @@ Member, Urban Redevelopment Authority<br>
 
 **Ms Tan Yen Nee**<br>
 Member, Singapore Tourism Board<br>
-[Tan_Yen_Nee@stb.gov.sg](Tan_Yen_Nee@stb.gov.sg)
+[tan_yen_nee@stb.gov.sg](tan_yen_nee@stb.gov.sg)
 
 **DAC Lim Wei-Yang Julius**<br>
 Member, Singapore Police Force<br>
