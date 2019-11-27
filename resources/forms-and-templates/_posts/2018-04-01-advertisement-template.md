@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Advertisement Template"
-permalink: "/resources/forms-and-template/posts/2018-04-01-advertisement-template.md"
+permalink: "/resources/forms-and-template/Advertisement-Template"
 category: Resources
 ---
 
