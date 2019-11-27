@@ -9,7 +9,7 @@ collection_name: application-guidelines
 
 ### **Application for a Change of Hotel Name**
 
-For any change to the Hotel Name, please apply for a Change of Hotel Name via [GoBusiness Licensing](https://www.gobusiness.gov.sg/licences){:target="_blank"}. Please note that the hotel shall not change the name of the hotel without prior written approval of the Board.
+For any change to the Hotel Name, please apply for a Change of Hotel Name via [GoBusiness Licensing](https://licence1.business.gov.sg){:target="_blank"}. Please note that the hotel shall not change the name of the hotel without prior written approval of the Board.
 
 ### **At A Glance**
 
@@ -30,26 +30,26 @@ For any change to the Hotel Name, please apply for a Change of Hotel Name via [G
 
 ### **Submission of Application**
 
-1. Application for a Change of Hotel Name is to be submitted online via [GoBusiness Licensing](https://www.gobusiness.gov.sg/licences){:target="_blank"}.
+1. Application for a Change of Hotel Name is to be submitted online via [GoBusiness Licensing](https://licence1.business.gov.sg){:target="_blank"}.
 
 2. Please submit all the following documents as attachments together with the online application. 
 
    * **ACRA business profile** of the hotel name (if applicable)  
-   * **Copy of the advertisement in one English newspaper**, for e.g. Straits Times. Section 9 of the Hotels Licensing Regulations requires the applicant to advertise within two weeks of the date of the online application. The advertisement must be in the format of a Notice. The application will be processed if there are no objections from the public within fourteen (14) days of the advertisement date.
+   * With effect from 1 December 2019, **Copy of the advertisement according to the Notice template in PDF format**. The electronic notice ("e-notice") will typically be published on the HLB website within 3 working days from the date in which the e-notice is submitted with complete information to the Board. The step-by-step guide on how to upload the e-notice can be found [here](/files/resources/guides/submission-of-e-notice.pdf).
 
-   ### **Approval Process**
+### **Approval Process**
 
-3. The application will be processed if there are no objections from the public within fourteen (14) days of the advertisement date.
+3. Any notice of objection lodged with HLB within two weeks of the advertisement will be taken into account in the assessment of the application for a Certificate of Registration.
 
-4. Processing of the application will take a minimum of two weeks following fourteen (14) days from the date of advertisements.
+4. Processing of the application will take a minimum of two weeks following fourteen (14) days from the date when the e-notice is published on the HLB website.
 
-5. You will be informed via SMS and/or e-mail if your application has been approved. Payment can then be made online via [GoBusiness Licensing](https://www.gobusiness.gov.sg/licences){:target="_blank"}. Fees for the Certificate of Registration must be paid via the GoBusiness Licensing Portal before the Certificate can be issued. If the payment is not made within one month, the application will lapse and the applicant will need to submit a new application. 
+5. You will be informed via SMS and/or e-mail if your application has been approved. Payment can then be made online via [GoBusiness Licensing](https://licence1.business.gov.sg){:target="_blank"}. Fees for the Certificate of Registration must be paid via the GoBusiness Licensing Portal before the Certificate can be issued. If the payment is not made within one month, the application will lapse and the applicant will need to submit a new application. 
 
 6. After payment has been made, you will receive a print notification to print the Certificate and Licence via GoBusiness Licensing (note: the Hotel-Keeper's Licence is re-issued as it bears the hotel name). The step-by-step guide to guide you through the printing of the Certificate and Licence can be found [here](/files/resources/guides/guide-printing-certificate-licence.pdf).
 
 7. The Hotels Licensing Board reserves the right to prescribe additional conditions or waive existing conditions for any application for a Certificate of Registration and/or a Hotel-keeper's Licence. 
 
-   ### **For More Information**
+### **For More Information**
 
 8. The step-by-step guide to guide you through the submission of the application for an change of Hotel Name can be found [here](/files/resources/guides/guide-amendment-of-licence.pdf).
 

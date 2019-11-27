@@ -49,7 +49,7 @@ Exemptions only apply to the following categories of accommodation as prescribed
 
    If there are any changes in the organisation's details after the submission of the application form, the Hotels Licensing Board must be informed in writing immediately.
 
-   ### **Approval Process**
+### **Approval Process**
 
 5. The Board will inform you of the outcome of the application in writing. 
 
