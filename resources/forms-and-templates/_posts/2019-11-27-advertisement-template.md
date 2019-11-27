@@ -13,4 +13,4 @@ This advertisement template is only applicable for New Hotel Application and Cha
 
 Please ensure that the Name of Hotel in this Notice is the same as your application and on your hotel signage. 
 
-Click [here](files/resources/forms-and-templates/advertisement-template.doc) to download the Advertisement Template. 
+Click [here](/files/resources/forms-and-templates/advertisement-template.doc) to download the Advertisement Template. 
