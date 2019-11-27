@@ -62,7 +62,7 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
     * Must be a person who holds a post of a Chief Executive Officer or General Manager or equivalent to that of a Chief Executive Officer or General Manager of the hotel; and 
     * Must be a Singaporean, Permanent Resident or an Employment Pass holder. 
 
-    ### **Approval Process**
+### **Approval Process**
 
  7. A pre-opening inspection will be carried out to ascertain the hotel is ready for operations, upon receipt of all required documents. Checks will include, but are not limited to: 
 
@@ -80,7 +80,7 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
 
 11. The Hotels Licensing Board reserves the right to prescribe additional conditions or waive existing conditions for any application for a Certificate of Registration and/or a Hotel-keeper's Licence.
 
-    ### **For More Information**
+### **For More Information**
 
 12. The step-by-step guide to guide you through the submission of the application for a Certificate of Registration and Hotel-Keeper's Licence can be found [here](/files/resources/guides/guide-new-application.pdf).
 
