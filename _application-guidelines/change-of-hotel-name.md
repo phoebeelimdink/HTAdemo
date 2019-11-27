@@ -37,7 +37,7 @@ For any change to the Hotel Name, please apply for a Change of Hotel Name via [G
    * **ACRA business profile** of the hotel name (if applicable)  
    * With effect from 1 December 2019, **Copy of the advertisement according to the Notice template in PDF format**. The electronic notice ("e-notice") will typically be published on the HLB website within 3 working days from the date in which the e-notice is submitted with complete information to the Board. The step-by-step guide on how to upload the e-notice can be found [here](/files/resources/guides/submission-of-e-notice.pdf).
 
-   ### **Approval Process**
+### **Approval Process**
 
 3. Any notice of objection lodged with HLB within two weeks of the advertisement will be taken into account in the assessment of the application for a Certificate of Registration.
 
@@ -49,7 +49,7 @@ For any change to the Hotel Name, please apply for a Change of Hotel Name via [G
 
 7. The Hotels Licensing Board reserves the right to prescribe additional conditions or waive existing conditions for any application for a Certificate of Registration and/or a Hotel-keeper's Licence. 
 
-   ### **For More Information**
+### **For More Information**
 
 8. The step-by-step guide to guide you through the submission of the application for an change of Hotel Name can be found [here](/files/resources/guides/guide-amendment-of-licence.pdf).
 
