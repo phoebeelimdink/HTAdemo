@@ -16,11 +16,11 @@ Should the hotel decides to cease its hotel operations, the CorpPass authorized 
 
 2. Please submit a cover letter with the date of cessation of the Hotel.
 
-   ### **Approval Process**
+### **Approval Process**
 
 3. The application will be processed and you will be informed via SMS and/or e-mail if your application has been approved.
 
-   ### **For More Information**
+### **For More Information**
 
 4. The step-by-step guide to guide you through the submission of the application for cancellation of Certificate of Registration and Hotel-keeper's Licence can be found [here](/files/resources/guides/guide-cancellation-of-licence.pdf).
 
