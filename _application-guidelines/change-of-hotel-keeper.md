@@ -41,7 +41,7 @@ The proposed Hotel-Keeper:
    * Resume (Curriculum Vitae) of the proposed hotel-keeper
    * A copy of the Employment Pass (for non-Singapore Citizen and Permanent Resident)
 
-   ### **Approval Process**
+### **Approval Process**
 
 3. Processing of the application will take a minimum of two weeks upon receipt of all the documents required. 
 
@@ -51,7 +51,7 @@ The proposed Hotel-Keeper:
 
 6. The Hotels Licensing Board reserves the right to prescribe additional conditions or waive existing conditions for any application for a Hotel-Keeper's Licence.
 
-   ### **For More Information**
+### **For More Information**
 
 7. The step-by-step guide to guide you through the submission of the application for an change of Hotel-Keeper can be found [here](/files/resources/guides/guide-amendment-of-licence.pdf).
 
