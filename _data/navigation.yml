@@ -38,10 +38,13 @@
     url: https://licence1.business.gov.sg/web/frontier/hotel-listing-search
     external: true
 - title: Notices
-  url: /notices/1a-2019-q4
+  url: /notices/1a-2020-q1
+  sub-links:
+  - title: 2020
+    url: /notices/1a-2020-q1/
   sub-links:
   - title: 2019
-    url: /notices/1a-2019-q4/
+    url: /notices/2a-2019-q4/
 - title: Who We Are
   url: /who-we-are/
 - title: Contact Us
