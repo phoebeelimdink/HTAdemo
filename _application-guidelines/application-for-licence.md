@@ -30,7 +30,7 @@ Any person who wishes to operate a hotel has to apply to the Hotels Licensing Bo
     <td>Minimum of 2 weeks from the pre-opening inspection date</td>
   </tr>
   <tr>
-    <td>Annual Licence Fees*<br><br> *Note: Licence fees related to new, <br> amendment, and renewal applications <br>that are payable for the rest of 2020<br> will be <b> waived </b> to help mitigate the <br> impact of Coronavirus Disease 2019 <br>(COVID-19).</td>
+    <td>Annual Licence Fees*<br><br> *Note: Licence fees related to new, amendment, and renewal applications that are payable for the rest of 2020 will be <b> waived </b> to help mitigate the <br> impact of Coronavirus Disease 2019 (COVID-19).</td>
     <td><b>Certificate of Registration</b> <br>(i) Hotel with 100 rooms and less - $200 <br>(ii) Hotel with 101-299 rooms - $300 <br> (iii) Hotel with 300 or more rooms - $400 <br><br> <b>Hotel-Keeper's licence fees for hotels of all sizes</b> - $100</td>
   </tr>
 </table>
