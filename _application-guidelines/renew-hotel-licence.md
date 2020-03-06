@@ -26,14 +26,14 @@ Applications for the renewal of the Certificate of Registration and Hotel-Keeper
     <td>Last quarter of the calendar year</td> 
   </tr>
    <tr>
-    <td>Hotel Licence Renewal Fees</td>
+    <td>Hotel Licence Renewal Fees*<br><br> *Note: Licence fees related to new, <br> amendment, and renewal applications <br>that are payable for the rest of 2020<br> will be <b> waived </b> to help mitigate the <br> impact of Coronavirus Disease 2019 <br>(COVID-19).</td>
     <td><b>Certificate of Registration</b> <br>(i)    Hotel with 100 rooms and less - $200 <br>(ii)   Hotel with 101-299 rooms - $300 <br> (iii)  Hotel with 300 or more rooms - $400 <br><br> <b>Hotel-keeper's licence fees for hotels of all sizes</b> - $100</td>
   </tr>
 </table>
 
 ### **Submission of Applications**
 
-1. Application for the renewal of the Certificate of Registration and Hotel-keeper's licence and payment of the fees are to be submitted online via [GoBusiness Licensing](https://licence1.business.gov.sg){:target="_blank"}.
+1. Application for the renewal of the Certificate of Registration and Hotel-keeper's licence are to be submitted online via [GoBusiness Licensing](https://www.gobusiness.gov.sg/licences){:target="_blank"}.
 
 ### **Approval Process**
 
