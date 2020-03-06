@@ -23,8 +23,8 @@ For any change to the Hotel Name, please apply for a Change of Hotel Name via [G
     <td>Minimum of two weeks following fourteen(14) days from the day of the advertisements.</td>
   </tr>
   <tr>
-    <td>Change of Hotel Name Fees*<br><br> *Note: Licence fees related to new, <br> amendment, and renewal applications<br> that are payable for the rest of 2020<br> will be <b> waived </b> to help mitigate the <br> impact of Coronavirus Disease 2019 (COVID-19).</td>
-    <td><b>Certificate of Registration</b> <br>(i)    Hotel with 100 rooms and less - $200 <br>(ii)   Hotel with 101-299 rooms - $300 <br> (iii)  Hotel with 300 or more rooms - $400 <br></td>
+    <td>Change of Hotel Name Fees*</td>
+    <td><b>Certificate of Registration</b> <br>(i)    Hotel with 100 rooms and less - $200 <br>(ii)   Hotel with 101-299 rooms - $300 <br> (iii)  Hotel with 300 or more rooms - $400 <br><br> *Note: Licence fees related to new, amendment, and renewal applications that are payable for the rest of 2020 will be <b> waived </b> to help mitigate the impact of Coronavirus Disease 2019 (COVID-19).</td>
   </tr>
 </table>
 
