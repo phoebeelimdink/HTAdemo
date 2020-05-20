@@ -33,6 +33,6 @@ Member, Singapore Tourism Board<br>
 Member, Singapore Police Force<br>
 [julius_lim@spf.gov.sg](julius_lim@spf.gov.sg)
 
-**AC Ng How Juah, Francis, PPA(G)**<br>
+**SAC Lian Wee Teck)**<br>
 Member, Singapore Civil Defence Force<br>
-[francis_ng@scdf.gov.sg](francis_ng@scdf.gov.sg)
+[lian_wee_teck@scdf.gov.sg](lian_wee_teck@scdf.gov.sg)
