@@ -5,28 +5,28 @@
 ##################################
 
 # Favicon
-favicon: /images/homepage/favicon-hlb.ico
+favicon: /images/homepage/HTA logo (for print 300ppi).png
 
 # Agency logo
-agency-logo: /images/homepage/logo_hlb.svg
+agency-logo: /images/homepage/thumbnail.png
 
 # Hero Banner
-hero-title: Hotels licensing in Singapore
-hero-subtitle: An easy platform to search for information related to hotel licensing
+hero-title: Home Team Academy
+hero-subtitle: test
 hero-banner: /images/homepage/HLB_website_Blueprint.jpg 
 
 key-highlights:
-  - title: Notices
-    description: View advertisements of applications for a Certificate of Registration   
-    url: /notices/1a-2020-q1
+  - title: Title1
+    description: description1
+    url: /
     # external: true
-  - title: Registered Hotels
-    description: View the list of registered hotels in Singapore
-    url: https://licence1.business.gov.sg/web/frontier/hotel-listing-search
+  - title: Title2
+    description: description2
+    url: /
     # external: true
-  - title: Hotels Legislation
-    description: Read about the Hotels Act and Licensing Regulations
-    url: https://sso.agc.gov.sg/Act/HA1954
+  - title: Title3
+    description: description3
+    url: /
 
 # Resources Section
 resources-title: Resources
