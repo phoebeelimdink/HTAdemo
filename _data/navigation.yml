@@ -4,47 +4,53 @@
 #                                #
 ##################################
 
-- title: Application Guidelines
-  url: /application-guidelines/application-for-licence/
+- title: Home
+  url: /
+
+- title: HTA Workplans
   sub-links:
-  - title: Application for Licence
-    url: /application-guidelines/application-for-licence/
-  - title: Application for Exemption
-    url: /application-guidelines/application_for_exemption/
-  - title: Cancellation of Licence
-    url: /application-guidelines/cancellation-of-licence/
-  - title: Change of Hotel-Keeper
-    url: /application-guidelines/change-of-hotel-keeper/
-  - title: Change of Hotel Name
-    url: /application-guidelines/change-of-hotel-name/
-  - title: Renewal of Licence
-    url: /application-guidelines/renew-hotel-licence/
-- title: Legislation
+  - title: Zone 1a
+    url: /
+  - title: Zone 1b
+    url: /
+  - title: Zone 1c
+    url: /
+  - title: Zone 1d
+    url: /
+  - title: Zone 1e
+    url: /
+
+- title: Home Team Department Training & Learning Initiatives
+  url: /
   sub-links:
-  - title: Hotels Act
-    url: https://sso.agc.gov.sg/Act/HA1954
-    external: true
-  - title: Hotels Licensing Regulations
-    url: https://sso.agc.gov.sg/SL/HA1954-RG1?DocDate=20170724
-    external: true
-- title: Resources
-  url: /resources/
-  sub-links:
-  - title: Forms and Templates
-    url: /resources/forms-and-templates/
-  - title: Guides
-    url: /resources/guides/
-  - title: Registered Hotels
-    url: https://licence1.business.gov.sg/web/frontier/hotel-listing-search
-    external: true
-- title: Notices
-  url: /notices/1a-2020-q1
-  sub-links:
-  - title: 2020
-    url: /notices/1a-2020-q1/
-  - title: 2019
-    url: /notices/2a-2019-q4/
-- title: Who We Are
-  url: /who-we-are/
+  - title: TCD/MHA
+    url: /
+  - title: SPF
+    url: /
+  - title: SCDF
+    url: /
+  - title: ICA
+    url: /
+  - title: SPS
+    url: /
+  - title: CNB
+    url: /
+  - title: HTX
+    url: /
+  - title: HTBSC
+    url: /
+  - title: Concluding page
+    url: /
+
 - title: Contact Us
-  url: /contact-us/
+  url: /
+  sub-links:
+  - title: Contact HTA
+    url: /
+  - title: Links to participating departments' homepage
+    url: /
+    external: true
+  - title: Feedback
+    url: /
+    external: true
+
