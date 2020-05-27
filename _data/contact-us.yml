@@ -8,9 +8,9 @@
 
 locations:
   # HQ Address [REQUIRED]
-  - title:
-    address: Tourism Court<br>1 Orchard Spring Lane<br>Singapore 247729
-    find-directions: https://www.onemap.sg/main/v2/?lat=1.30366583776968&lng=103.823998391692
+  - title: Address
+    address: address here
+    #find-directions: https://www.onemap.sg/main/v2/?lat=1.30366583776968&lng=103.823998391692
   # Operating Hours [OPTIONAL]
     operating-hours:
       - days: Mon - Fri
@@ -21,13 +21,13 @@ locations:
 column:
   - title: General Enquiries & Feedback
     content:
-    - line: +65 6736 6622
-    - line: hlb_info@hlb.gov.sg (email)
+    - line: phone number
+    - line: email@email.gov.sg (email)
     # If you have an email, put (email) after the actual email
 
   - title: Fax
     content:
-    - line: +65 6736 9423
+    - line: number
 
 # Image
 image-url:
