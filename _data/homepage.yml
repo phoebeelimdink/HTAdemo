@@ -5,10 +5,10 @@
 ##################################
 
 # Favicon
-favicon: /images/homepage/HTA logo (for print 300ppi).png
+favicon: /images/HTA logo (for print 300ppi).png
 
 # Agency logo
-agency-logo: /images/homepage/thumbnail.png
+agency-logo: /images/thumbnail.png
 
 # Hero Banner
 hero-title: Home Team Academy
