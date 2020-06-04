@@ -41,9 +41,6 @@ sections:
         url: /core-values/
         image: /images/professionalism.png
         alt: Members of the Ministry of ABC in suits
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+
 ---
 <!-- Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage -->
